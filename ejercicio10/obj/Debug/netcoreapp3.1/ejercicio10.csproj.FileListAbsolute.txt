@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.exe
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.deps.json
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.json
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfo.cs
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\DELL\Desktop\practica#poo\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.genruntimeconfig.cache
